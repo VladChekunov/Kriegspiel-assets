@@ -11,6 +11,12 @@ To build board pdf file we need librsvg2.
 sudo apt-get install librsvg2-bin
 ```
 
+## solvespace
+To build stl pieces files we need solvespace
+```bash
+sudo apt-get install solvespace
+```
+
 ## Just
 https://github.com/casey/just#installation
 
